@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1730948116 source:c:\users\andré\onedrive\documentos\pim2.000\pim\fornecedor.c
+	<stdio.h>
+	<string.h>
+	"fornecedor.h"
+
+1730947642 c:\users\andré\onedrive\documentos\pim2.000\pim\fornecedor.h
+
+1730947642 source:c:\users\andré\onedrive\documentos\pim2.000\pim\main.c
+	<stdio.h>
+	"registro.h"
+	"produto.h"
+	"fornecedor.h"
+	"venda.h"
+
+1730947642 c:\users\andré\onedrive\documentos\pim2.000\pim\registro.h
+	"produto.h"
+	"fornecedor.h"
+	"venda.h"
+
+1730947642 c:\users\andré\onedrive\documentos\pim2.000\pim\produto.h
+
+1730947643 c:\users\andré\onedrive\documentos\pim2.000\pim\venda.h
+
+1730948116 source:c:\users\andré\onedrive\documentos\pim2.000\pim\produto.c
+	<stdio.h>
+	<string.h>
+	"produto.h"
+
+1730947643 source:c:\users\andré\onedrive\documentos\pim2.000\pim\registro.c
+	<stdio.h>
+	"registro.h"
+
+1730948602 source:c:\users\andré\onedrive\documentos\pim2.000\pim\venda.c
+	<stdio.h>
+	<stdlib.h>
+	"venda.h"
+	"produto.h"
+
+1730974535 source:c:\users\andré\onedrive\documentos\pim-atualizado\pim\fornecedor.c
+	<stdio.h>
+	<string.h>
+	"fornecedor.h"
+
+1730947642 c:\users\andré\onedrive\documentos\pim-atualizado\pim\fornecedor.h
+
+1730974535 source:c:\users\andré\onedrive\documentos\pim-atualizado\pim\main.c
+	<stdio.h>
+	"registro.h"
+	"produto.h"
+	"fornecedor.h"
+	"venda.h"
+
+1730947642 c:\users\andré\onedrive\documentos\pim-atualizado\pim\registro.h
+	"produto.h"
+	"fornecedor.h"
+	"venda.h"
+
+1730947642 c:\users\andré\onedrive\documentos\pim-atualizado\pim\produto.h
+
+1730947643 c:\users\andré\onedrive\documentos\pim-atualizado\pim\venda.h
+
+1730948116 source:c:\users\andré\onedrive\documentos\pim-atualizado\pim\produto.c
+	<stdio.h>
+	<string.h>
+	"produto.h"
+
+1730947643 source:c:\users\andré\onedrive\documentos\pim-atualizado\pim\registro.c
+	<stdio.h>
+	"registro.h"
+
+1730948644 source:c:\users\andré\onedrive\documentos\pim-atualizado\pim\venda.c
+	<stdio.h>
+	"venda.h"
+
